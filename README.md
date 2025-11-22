@@ -1,16 +1,35 @@
-## Hi there 👋
+## Hi, I'm Yaiphalemba Mangshatabam 👋
 
-<!--
-**Yaiphalemba/Yaiphalemba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Techie | Helping the world, one code at a time. Gaming, Football & a little bit of life. From Imphal to the world. Music on, world off.**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 Profession
+Software Developer
+
+### 🚀 Top Skills
+- Python, JavaScript, HTML, React
+- Flask, Frappe, AWS
+- DBMS, Power BI, Postman
+
+### 🛠️ Favorite Projects
+- Frappe-ERPNext Integration with Teams and GitHub
+
+### 📫 Social
+- [LinkedIn](https://www.linkedin.com/in/yaiphalemba-mangshatabam-6469a2218/)
+
+### ⚽ Fun Facts & Interests
+- Football, Table Tennis, Chess
+- Novels, Games, Travelling
+
+---
+
+## 📊 GitHub Stats
+
+![Yaiphalemba's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yaiphalemba&show_icons=true&theme=radical)
+![Yaiphalemba's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Yaiphalemba&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yaiphalemba&layout=compact&theme=radical)
+
+---
+
+*Let's connect and build something awesome!*
