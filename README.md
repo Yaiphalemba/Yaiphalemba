@@ -14,6 +14,7 @@ Software Developer
 
 ### 🛠️ Favorite Projects
 - Frappe-ERPNext Integration with Teams and GitHub
+- ERPNext-Agile
 
 ### 📫 Social
 - [LinkedIn](https://www.linkedin.com/in/yaiphalemba-mangshatabam-6469a2218/)
