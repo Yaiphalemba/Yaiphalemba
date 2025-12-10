@@ -25,14 +25,4 @@ Software Developer
 
 ---
 
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Yaiphalemba&show_icons=true&theme=radical)
-
-![Streak](https://streak-stats.demolab.com?user=Yaiphalemba&theme=radical)
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Yaiphalemba&layout=compact&theme=radical)
-
----
-
 *Let's connect and build something awesome!*
