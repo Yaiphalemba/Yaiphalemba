@@ -27,9 +27,11 @@ Software Developer
 
 ## 📊 GitHub Stats
 
-![Yaiphalemba's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yaiphalemba&show_icons=true&theme=radical)
-![Yaiphalemba's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Yaiphalemba&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yaiphalemba&layout=compact&theme=radical)
+![Yaiphalemba's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Yaiphalemba&show_icons=true&theme=radical)
+
+![Yaiphalemba's GitHub Streak](https://streak-stats.demolab.com?user=Yaiphalemba&theme=radical)
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Yaiphalemba&layout=compact&theme=radical)
 
 ---
 
