@@ -15,6 +15,7 @@ Software Developer
 ### 🛠️ Favorite Projects
 - Frappe-ERPNext Integration with Teams and GitHub
 - ERPNext-Agile
+- ERPNext-Zoho Integration
 
 ### 📫 Social
 - [LinkedIn](https://www.linkedin.com/in/yaiphalemba-mangshatabam-6469a2218/)
@@ -22,6 +23,14 @@ Software Developer
 ### ⚽ Fun Facts & Interests
 - Football, Table Tennis, Chess
 - Novels, Games, Travelling
+
+---
+
+## 📊 GitHub Stats
+
+![Yaiphalemba's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yaiphalemba&show_icons=true&theme=radical)
+![Yaiphalemba's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Yaiphalemba&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yaiphalemba&layout=compact&theme=radical)
 
 ---
 
