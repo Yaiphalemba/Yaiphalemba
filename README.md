@@ -19,8 +19,8 @@ Software Developer
 
 
 ### 📊 GitHub Stats
-[![Yaiphalemba's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Yaiphalemba&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Yaiphalemba's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Yaiphalemba&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Yaiphalemba's GitHub stats-Dark](https://github-readme-stats-one-tau-12.vercel.app/api?username=Yaiphalemba&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Yaiphalemba's GitHub stats-Light](https://github-readme-stats-one-tau-12.vercel.app/api?username=Yaiphalemba&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 ### 📫 Social
 - [LinkedIn](https://www.linkedin.com/in/yaiphalemba-mangshatabam-6469a2218/)
