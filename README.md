@@ -23,7 +23,7 @@ Software Developer
     <img height=200 align="center" src="https://github-readme-stats-one-tau-12.vercel.app/api?username=Yaiphalemba&show_icons=true&theme=radical" />
   </a>
   <a href="https://github.com/Yaiphalemba/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats-one-tau-12.vercel.app/api/top-langs/?username=Yaiphalemba&layout=donut&theme=radical" />
+    <img height=195 align="center" src="https://github-readme-stats-one-tau-12.vercel.app/api/top-langs/?username=Yaiphalemba&layout=donut&theme=radical" />
   </a>
 
 ### 📫 Social
