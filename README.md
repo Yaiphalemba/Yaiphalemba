@@ -19,10 +19,8 @@ Software Developer
 
 
 ### 📊 GitHub Stats
-<div align="center">
-  <img height="180" src="https://github-readme-stats-one-tau-12.vercel.app/api?username=Yaiphalemba&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C3D1D9" alt="Yaiphalemba's GitHub Stats" />
-  <img height="180" src="https://github-readme-stats-one-tau-12.vercel.app/api/top-langs/?username=Yaiphalemba&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C3D1D9" alt="Top Languages" />
-</div>
+[![Yaiphalemba's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Yaiphalemba&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Yaiphalemba's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Yaiphalemba&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 ### 📫 Social
 - [LinkedIn](https://www.linkedin.com/in/yaiphalemba-mangshatabam-6469a2218/)
