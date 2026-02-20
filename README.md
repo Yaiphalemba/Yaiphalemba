@@ -20,11 +20,11 @@ Software Developer
 
 ### 📊 GitHub Stats
 <a href="https://github.com/Yaiphalemba/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats-one-tau-12.vercel.app/api?username=Yaiphalemba" />
-</a>
-<a href="https://github.com/Yaiphalemba/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats-one-tau-12.vercel.app/api/top-langs?username=Yaiphalemba&layout=compact&langs_count=8&card_width=320" />
-</a>
+    <img height=200 align="center" src="https://github-readme-stats-one-tau-12.vercel.app/api?username=Yaiphalemba&show_icons=true&theme=dark" />
+  </a>
+  <a href="https://github.com/Yaiphalemba/convoychat">
+    <img height=200 align="center" src="https://github-readme-stats-one-tau-12.vercel.app/api?username=Yaiphalemba&show_icons=true&theme=dark" />
+  </a>
 
 ### 📫 Social
 - [LinkedIn](https://www.linkedin.com/in/yaiphalemba-mangshatabam-6469a2218/)
