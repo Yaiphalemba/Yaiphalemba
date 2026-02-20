@@ -19,8 +19,8 @@ Software Developer
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yaiphalemba&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C3D1D9" alt="Yaiphalemba's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yaiphalemba&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C3D1D9" alt="Top Languages" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Yaiphalemba&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C3D1D9" alt="Yaiphalemba's GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yaiphalemba&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C3D1D9" alt="Top Languages" />
 </div>
 
 ### 📫 Social
